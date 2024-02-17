@@ -1,1 +1,1 @@
-deploy Link: https://ShlokGaikwad.github.io
+- deploy Link: **https://ShlokGaikwad.github.io**
